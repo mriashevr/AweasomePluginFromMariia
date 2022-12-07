@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsf-support">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomee-specifics">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Tomcat/lib/specifics/tomee-specifics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/svn4idea/lib/sqlite-jdbc-3.34.0.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/svn4idea/lib/svn4idea.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

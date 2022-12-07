@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jettyIntegration">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Jetty/lib/jettyIntegration.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

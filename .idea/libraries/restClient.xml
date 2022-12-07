@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="restClient">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cdi-support">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/CDI/lib/cdi-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

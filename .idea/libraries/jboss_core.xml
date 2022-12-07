@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-core">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/jboss-core/lib/jboss-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

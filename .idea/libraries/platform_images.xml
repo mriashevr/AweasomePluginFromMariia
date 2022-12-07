@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-images">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/platform-images/lib/platform-images.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

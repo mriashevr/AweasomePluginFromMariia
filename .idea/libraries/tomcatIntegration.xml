@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcatIntegration">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Tomcat/lib/tomcatIntegration.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

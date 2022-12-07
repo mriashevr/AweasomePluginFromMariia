@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-impl.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-minicats.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/jdbc-console.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/3rd-party.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/jts-io-common-1.16.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-dialects.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/aether-dependency-resolver.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-openapi.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/jts-core-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

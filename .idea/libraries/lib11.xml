@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib11">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/IntelliLang/lib/java-langInjection-jps.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/IntelliLang/lib/IntelliLang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

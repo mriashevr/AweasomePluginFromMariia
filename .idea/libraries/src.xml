@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/redist/src/src_javac2.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/redist/src/src_forms_rt.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

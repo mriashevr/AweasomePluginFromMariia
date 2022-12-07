@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="src2">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/src/src_tomcat.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/src/src_persistence-openapi.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/src/src_spring-openapi.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/src/src_javaee-openapi.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/src/src_database-openapi.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/src/src_spring-boot-openapi.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/src/src_jam-openapi.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/src/src_css-api.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xslt-rt">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/xpath/lib/rt/xslt-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

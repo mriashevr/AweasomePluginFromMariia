@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grazie">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/grazie/lib/grazie.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib34">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate-console.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate4-console.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate52-console.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate5-console.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate3-console.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

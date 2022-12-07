@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rt2">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/rt/jps-javac-rt-rpc.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/rt/debugger-agent.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/rt/protobuf-java6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

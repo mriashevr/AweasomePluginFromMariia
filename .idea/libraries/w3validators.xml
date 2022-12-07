@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="w3validators">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/w3validators/lib/w3validators.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

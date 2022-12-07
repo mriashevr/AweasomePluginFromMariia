@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaee-gradle-support">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle-javaee/lib/javaee-gradle-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

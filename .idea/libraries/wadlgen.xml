@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wadlgen">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/WebServices/lib/wadlgen/wadlgen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

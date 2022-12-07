@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="el-support">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/ExpressionLanguage/lib/el-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web-support">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Web/lib/web-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="customNs">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Spring/lib/customNs/customNs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpringWebSocket">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/SpringWebSocket/lib/SpringWebSocket.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

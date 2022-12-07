@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="microservices-uast">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/microservices-uast/lib/microservices-uast.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

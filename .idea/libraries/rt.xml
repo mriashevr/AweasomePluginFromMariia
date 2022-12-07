@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rt">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/rt/servlet.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/rt/xml-apis.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/rt/xerces1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

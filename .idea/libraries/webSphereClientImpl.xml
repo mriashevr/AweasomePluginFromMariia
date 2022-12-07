@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webSphereClientImpl">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/specifics/webSphereClientImpl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

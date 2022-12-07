@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="remote-run">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/remote-run/lib/remote-run.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

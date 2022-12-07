@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="performanceTesting-kotlin">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/performanceTesting-kotlin/lib/performanceTesting-kotlin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

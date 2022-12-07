@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="searchEverywhereMl">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/searchEverywhereMl/lib/searchEverywhereMl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

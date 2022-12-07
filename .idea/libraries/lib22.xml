@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib22">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Grails/lib/grails_integration.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Grails/lib/grails-rt.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Grails/lib/grails-gradle-tooling.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Grails/lib/groovy-grails-compilerPatch.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Grails/lib/groovy-grails-jps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

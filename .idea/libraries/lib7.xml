@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/performanceTesting/lib/performanceTesting.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/performanceTesting/lib/yjp-controller-api-redist.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/performanceTesting/lib/byte-buddy-agent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

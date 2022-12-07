@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eclipse">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/ecj/eclipse.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

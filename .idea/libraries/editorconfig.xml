@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="editorconfig">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/editorconfig/lib/editorconfig.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

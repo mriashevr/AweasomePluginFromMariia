@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib31">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vcs-git-featuresTrainer/lib/vcs-git-featuresTrainer.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/vcs-git-featuresTrainer/lib/git-learning-project-212.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib19">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/devkit/lib/devkit.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/devkit/lib/3rd-party.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/devkit/lib/devkit-jps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

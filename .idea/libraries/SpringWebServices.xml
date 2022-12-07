@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpringWebServices">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/SpringWebServices/lib/SpringWebServices.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

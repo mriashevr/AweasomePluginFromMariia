@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gateway-terminal">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gateway-terminal/lib/gateway-terminal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

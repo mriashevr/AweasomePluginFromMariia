@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="performanceTesting-maven">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/performanceTesting-maven/lib/performanceTesting-maven.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

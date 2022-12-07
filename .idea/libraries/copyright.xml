@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="copyright">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/copyright/lib/copyright.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

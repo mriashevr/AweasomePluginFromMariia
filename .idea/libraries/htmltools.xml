@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="htmltools">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/htmltools/lib/htmltools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="batch-applications-support">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/BatchApplications/lib/batch-applications-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

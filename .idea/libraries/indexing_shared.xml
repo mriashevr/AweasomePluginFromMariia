@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="indexing-shared">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/indexing-shared/lib/indexing-shared.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

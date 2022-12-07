@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spy-js">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/spy-js/lib/spy-js.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

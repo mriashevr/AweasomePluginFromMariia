@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpringMessaging">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/SpringMessaging/lib/SpringMessaging.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

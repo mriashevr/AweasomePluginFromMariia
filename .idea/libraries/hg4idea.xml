@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hg4idea">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/hg4idea/lib/hg4idea.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

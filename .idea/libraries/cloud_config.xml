@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cloud-config">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/cloud-config/lib/cloud-config.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

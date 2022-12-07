@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib28">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/featuresTrainer/lib/assertj-swing-3.17.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/featuresTrainer/lib/assertj-core-3.20.2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/featuresTrainer/lib/featuresTrainer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

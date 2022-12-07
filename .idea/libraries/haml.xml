@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="haml">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/haml/lib/haml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

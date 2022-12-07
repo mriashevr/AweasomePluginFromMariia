@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="swagger">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/swagger/lib/swagger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

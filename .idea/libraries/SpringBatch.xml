@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpringBatch">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/SpringBatch/lib/SpringBatch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

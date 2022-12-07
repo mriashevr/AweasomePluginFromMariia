@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpringData">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/SpringData/lib/SpringData.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

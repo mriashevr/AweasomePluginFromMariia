@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib38">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven36-server.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven2-server.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/artifact-resolver-m2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven-event-listener.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/artifact-resolver-m31.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3-server.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven-jps.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven30-server.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/3rd-party.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3-server-common.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven-server-api.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/artifact-resolver-m3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

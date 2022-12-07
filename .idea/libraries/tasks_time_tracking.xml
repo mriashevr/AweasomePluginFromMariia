@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tasks-time-tracking">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/tasks-time-tracking/lib/tasks-time-tracking.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

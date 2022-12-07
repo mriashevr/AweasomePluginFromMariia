@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib14">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JPA/lib/3rd-party.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JPA/lib/jpa-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

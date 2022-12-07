@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="workspaceModel-performanceTesting">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/workspaceModel-performanceTesting/lib/workspaceModel-performanceTesting.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

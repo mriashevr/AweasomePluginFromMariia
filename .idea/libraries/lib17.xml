@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib17">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptDebugger/lib/nashorn-debugger-rt.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptDebugger/lib/JavaScriptDebugger.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptDebugger/lib/nashorn-debugger-9-rt.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptDebugger/lib/ChromeConnector.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptDebugger/lib/FirefoxConnector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

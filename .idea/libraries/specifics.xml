@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="specifics">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JBoss/lib/specifics/jboss7-specifics.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JBoss/lib/specifics/legacy-specifics.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/JBoss/lib/specifics/wildfly11-specifics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

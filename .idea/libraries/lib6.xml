@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-tooling-extension-impl.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-wrapper-7.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-api-7.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-api-impldep-7.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-launcher-7.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-tooling-extension-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

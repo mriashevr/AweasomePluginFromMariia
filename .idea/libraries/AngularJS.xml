@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AngularJS">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/AngularJS/lib/AngularJS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
