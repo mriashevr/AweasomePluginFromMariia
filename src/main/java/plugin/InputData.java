@@ -16,7 +16,18 @@ public class InputData extends JDialog {
     private JTextField VariableName2;
     private JTextField VariableType1;
     private JTextField VariableName1;
+
+    public String getClassNameData() {
+        return ClassNameData.getText();
+    }
+
     private JTextField ClassNameData;
+
+    public JCheckBox getCreateNewFileCheckBox() {
+        return createNewFileCheckBox;
+    }
+
+    private JCheckBox createNewFileCheckBox;
     private Boolean OkayPressed;
 
     public InputData() {
@@ -71,8 +82,10 @@ public class InputData extends JDialog {
         System.exit(0);
     }
 
-    public String ClassCodeGeneration () {
+    public String ClassCodeGeneration() {
+
         String finalCode = "@Data\n" +
+
                 "public class " + ClassNameData.getText() + "{ \n";
 
         if (!Objects.equals(VariableType1.getText(), "") && !Objects.equals(VariableName1.getText(), "")) {

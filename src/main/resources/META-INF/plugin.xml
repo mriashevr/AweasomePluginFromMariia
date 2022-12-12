@@ -19,7 +19,7 @@
     <actions>
         <action id="Generate Class" class="plugin.GenerationAction" text="GenerationAction"
                 description="Generate code for response body">
-            <add-to-group group-id="EditorActions" anchor="first"/>
+            <add-to-group group-id="EditorActions" anchor="first"/> //что это делает и что здесь может быть
             <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl alt M"/>
         </action>
     </actions>
