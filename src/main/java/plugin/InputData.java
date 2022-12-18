@@ -1,5 +1,7 @@
 package plugin;
 
+import com.intellij.openapi.ui.Messages;
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.util.Objects;
@@ -84,28 +86,31 @@ public class InputData extends JDialog {
 
     public String ClassCodeGeneration() {
 
-        String finalCode = "@Data\n" +
+        if(VariableName1.getText() == "" && VariableType1.getText() == "" && ClassNameData.getText() == "") {
+            String finalCode = "@Data\n" +
 
-                "public class " + ClassNameData.getText() + "{ \n";
+                    "public class " + ClassNameData.getText() + "{ \n";
 
-        if (!Objects.equals(VariableType1.getText(), "") && !Objects.equals(VariableName1.getText(), "")) {
-            finalCode += "\tprivate " + VariableType1.getText() + " " + VariableName1.getText() + ";\n";
+            if (!Objects.equals(VariableType1.getText(), "") && !Objects.equals(VariableName1.getText(), "")) {
+                finalCode += "\tprivate " + VariableType1.getText() + " " + VariableName1.getText() + ";\n";
+            }
+
+            if (!Objects.equals(VariableType2.getText(), "") && !Objects.equals(VariableName2.getText(), "")) {
+                finalCode += "\tprivate " + VariableType2.getText() + " " + VariableName2.getText() + ";\n";
+            }
+
+            if (!Objects.equals(VariableType3.getText(), "") && !Objects.equals(VariableName3.getText(), "")) {
+                finalCode += "\tprivate " + VariableType3.getText() + " " + VariableName3.getText() + ";\n";
+            }
+
+            if (!Objects.equals(VariableType4.getText(), "") && !Objects.equals(VariableName4.getText(), "")) {
+                finalCode += "\tprivate " + VariableType4.getText() + " " + VariableName4.getText() + ";\n";
+            }
+
+            finalCode += "\n};";
+            return finalCode;
         }
-
-        if (!Objects.equals(VariableType2.getText(), "") && !Objects.equals(VariableName2.getText(), "")) {
-            finalCode += "\tprivate " + VariableType2.getText() + " " + VariableName2.getText() + ";\n";
-        }
-
-        if (!Objects.equals(VariableType3.getText(), "") && !Objects.equals(VariableName3.getText(), "")) {
-            finalCode += "\tprivate " + VariableType3.getText() + " " + VariableName3.getText() + ";\n";
-        }
-
-        if (!Objects.equals(VariableType4.getText(), "") && !Objects.equals(VariableName4.getText(), "")) {
-            finalCode += "\tprivate " + VariableType4.getText() + " " + VariableName4.getText() + ";\n";
-        }
-
-        finalCode += "\n};";
-        return finalCode;
+        return "false";
     }
 
     public Boolean GetOKPressed() {
